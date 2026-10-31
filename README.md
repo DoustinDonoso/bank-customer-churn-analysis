@@ -5,7 +5,7 @@ modelo predictivo de probabilidad de abandono, segmentación valor × riesgo con
 dashboard interactivo de dos páginas para operación de retención.
 
 **Stack:** Python · pandas · scikit-learn · Plotly · Streamlit · Jupyter
-**Dataset:** [Bank Customer Churn Records (Kaggle)](https://www.kaggle.com/datasets/adam036/customer-churn-records) — 10.000 filas, sintético y público
+**Dataset:** [Bank Customer Churn Records (Kaggle)](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn) — 10.000 filas, sintético y público
 
 ---
 
