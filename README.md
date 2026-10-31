@@ -220,8 +220,4 @@ esperada mitigada · churn Alemania ≤25% · ≥85% de quejas cerradas en <48h.
 - **Cada campaña debe medirse con grupo de control** (15–20% aleatorio). Sin control no se distingue
   retención efectiva de clientes que se habrían quedado igual.
 
-## 6. Notas
 
-`CustomerChurnRecordsClean.ipynb` contiene un script de Python plano con extensión `.ipynb`: no abre
-como notebook en Jupyter ni en el visor de GitHub. Ejecutarlo como `python CustomerChurnRecordsClean.ipynb`
-o renombrarlo a `.py`.
